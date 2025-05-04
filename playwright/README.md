@@ -19,7 +19,6 @@ automation_frameworks/
 │   └── ExamplePage.js
 ├── tests/                 # Test specifications
 │   └── example.spec.js
-├── utils/                 # Utility functions and helpers
 ├── playwright.config.js   # Playwright configuration
 ├── package.json           # Project metadata and scripts
 └── README.md              # Project documentation
