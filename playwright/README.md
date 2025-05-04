@@ -16,9 +16,9 @@ This repository is an ongoing project aimed at building a robust, maintainable, 
 ```
 automation_frameworks/
 ├── pages/                 # Page Object Model classes
-│   └── HomePage.js
+│   └── ExamplePage.js
 ├── tests/                 # Test specifications
-│   └── home.spec.js
+│   └── example.spec.js
 ├── utils/                 # Utility functions and helpers
 ├── playwright.config.js   # Playwright configuration
 ├── package.json           # Project metadata and scripts
